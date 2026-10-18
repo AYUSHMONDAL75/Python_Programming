@@ -1,4 +1,4 @@
-deci = 43261596
+deci = 6
 bit = bin(deci)[2:]
 print(bit)
 print("........reverse is.............")
